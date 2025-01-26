@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/css/dropdown.css';
 import './assets/css/carousel.css';
 import './assets/css/navbar.css';
-import 'popper.js';
+import '@popperjs/core';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
